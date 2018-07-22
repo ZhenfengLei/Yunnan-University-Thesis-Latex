@@ -1,7 +1,4 @@
-## XTU Thesis Template
-
-本模板是在数学院一位校友提供的模板上改写的
-
+## This is a thesis template for Yunnan University, which is suitable for master students! 这里是一个云南大学硕士毕业论文模板latex。该模板是根据其云南大学毕业模板要求撰写，分享供大家使用！
 ### 使用说明
 
 - 下载最新版CTeX套装：http://www.ctex.org/HomePage
@@ -9,10 +6,3 @@
 - 使用WinEdt打开`xtuthesis.tex`：
 	- 编译文件：`XeLaTeX`
 	- 参考文献：`BibTeX`
-- 编译有问题的话多重复上一步骤直到没有问题即可。
-- 在主目录下得到pdf文件，执行`texclear.bat`清理多余的文件。
-
-## TODO
-
-- 页眉页脚未设置
-- 参考文献格式未设置
