@@ -1,0 +1,28 @@
+\documentclass[twoside,CJK,GBK,UTF8,12pt,oneside,a4paper]{ctexbook}
+%----------------------------------------packages and format-----------------
+\usepackage{fancyhdr}
+\input{setup/package.tex}
+\input{setup/format.tex}
+\graphicspath{{figures/}}
+\begin{document}
+%----------------------------------------cover-------------------------------
+\include{preface/cover}
+\include{preface/license}
+
+\include{body/abstract}
+\include{body/abstract2}
+%----------------------------------------table content-----------------------
+\include{body/content}
+%----------------------------------------body--------------------------------
+\songti\zihao{-4}
+\include{body/introduction}
+\include{body/thesisformat}
+\include{body/bibliography}
+\include{body/expression}
+\include{body/elements}
+%----------------------------------------reference---------------------------
+\include{reference/references}
+%----------------------------------------thanks------------------------------
+\include{body/aboutme}
+\include{body/thank}
+\end{document} 

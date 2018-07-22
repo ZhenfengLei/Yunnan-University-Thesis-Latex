@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Arteaga-Falconi:ITIM:2016}
+\bibauthor{ARTEAGA-FALCONI J~S\@, OSMAN H~A\@, SADDIK A~E}\@. \bibtitle{Ecg
+  authentication for mobile devices}\bibmark{[J/OL]}\@. \bibjournal{IEEE
+  Transactions on Instrumentation and Measurement}\@, \bibyear{2016}\@,
+  \bibvolume{65}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{591\thinspace{}\textnormal{--}\thinspace{}600}\@.
+  \newline\url{http://dx.doi.org/10.1109/TIM.2015.2503863}\@.
+
+\bibitem{Barni:ITIFS:2011}
+\bibauthor{BARNI M\@, FAILLA P\@, LAZZERETTI R, et~al}\@.
+  \bibtitle{Privacy-preserving ecg classification with branching programs and
+  neural networks}\bibmark{[J/OL]}\@. \bibjournal{IEEE Transactions on
+  Information Forensics and Security}\@, \bibyear{2011}\@,
+  \bibvolume{6}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{452\thinspace{}\textnormal{--}\thinspace{}468}\@.
+  \newline\url{http://dx.doi.org/10.1109/TIFS.2011.2108650}\@.
+
+\end{thebibliography}
