@@ -3,6 +3,6 @@
 
 - 下载最新版CTeX套装：http://www.ctex.org/HomePage
 - 下载本项目：https://github.com/MrDongdongLin/xtuthesis/releases
-- 使用WinEdt打开`xtuthesis.tex`：
+- 使用WinEdt打开`ynuthesis.tex`：
 	- 编译文件：`XeLaTeX`
 	- 参考文献：`BibTeX`
